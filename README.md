@@ -1,6 +1,6 @@
 # TASK: Vocabulary List Repository
 
-### Web Development Task 001
+### Web Development Task For Week 1 and Week 2
 
 This repository contains the files and instructions for completing the Web Development deliverables for Week 1 and Week 2. Follow the steps below to clone the repository and get started.
 
@@ -28,7 +28,7 @@ To view the project locally, you can either open the project files in your code 
 
 - [ ] Change the < h1 > and < title > tags to read: Web Development Vocabulary.
 - [ ] Create an unordered list and add each vocabulary word and definition as a list item.
-- [ ] Make each vocabulary word **bold** and **italicize** words in the definition where appropriate. You **MUST** use semantic HTML tags.
+- [ ] Make each vocabulary word **bold** and *italicize* words in the definition where appropriate. You **MUST** use semantic HTML tags.
 - [ ] Push your changes to your fork on GitHub and turn in.
 
 ## Week 2 Tasks
